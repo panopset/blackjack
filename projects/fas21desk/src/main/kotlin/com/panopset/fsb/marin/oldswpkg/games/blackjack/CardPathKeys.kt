@@ -1,4 +1,4 @@
-package com.panopset.marin.oldswpkg.games.blackjack
+package com.panopset.fsb.marin.oldswpkg.games.blackjack
 
 import com.panopset.fsb.engine.Card
 import com.panopset.fsb.marin.oldswpkg.games.blackjack.config.ImageMapCachePatch

@@ -1,8 +1,4 @@
-package com.panopset.marin.oldswpkg.games.blackjack
-
-import com.panopset.fsb.marin.oldswpkg.games.blackjack.TableLandscape
-import com.panopset.fsb.marin.oldswpkg.games.blackjack.TableLayout
-import com.panopset.fsb.marin.oldswpkg.games.blackjack.TablePortrait
+package com.panopset.fsb.marin.oldswpkg.games.blackjack
 
 
 class BlackjackTable(w: Int, h: Int, cardHeight: Int) {

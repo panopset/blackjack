@@ -25,7 +25,7 @@ Prominently displayed in the end product description somewhere must a link to
 [Gamblers Anonymous](http://gamblersanonymous.com), 
 along with the following disclaimer:
 
-* "The only claim made about this game is that it will only lead you to ruin, whether or not it has any bugs."
+* "The first claim made about this game is that it will only lead you to ruin, whether, or not it has any bugs."
 
 I probably won't take the time to sue you, if you don't abide by these provisions.
 It will be enough to trust in cosmic justice, should you foolishly decide to ignore them.

@@ -10,7 +10,8 @@ import com.panopset.compat.Stringop
 import com.panopset.compat.Tile
 import com.panopset.fxapp.FontManagerFX
 import com.panopset.fsb.fsbdesk.games.images.BlackjackImages
-import com.panopset.marin.oldswpkg.games.blackjack.*
+import com.panopset.fsb.marin.oldswpkg.games.blackjack.BlackjackCmdBinder
+import com.panopset.fsb.marin.oldswpkg.games.blackjack.BlackjackTable
 import javafx.scene.canvas.GraphicsContext
 import javafx.scene.paint.Color
 import javafx.scene.text.Font
