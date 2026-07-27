@@ -18,11 +18,11 @@ set MP=^
 %R%/com/panopset/desk/%PV%/desk-%PV%.jar;^
 %R%/com/panopset/flywheel/%PV%/flywheel-%PV%.jar;^
 %R%/com/panopset/fxapp/%PV%/fxapp-%PV%.jar;^
-projects/fas21engine/target/fsbengine.jar;^
-projects/fas21desk/target/fsbdesk.jar
+projects/fsbengine/target/fsbengine.jar;^
+projects/fsbdesk/target/fsbdesk.jar
 
 set c=jpackage ^
-  -n fas21 ^
+  -n blackjack ^
   -p %MP%;%JAVA_HOME%\jmods ^
   -m com.panopset.fsb.fsbdesk.games/com.panopset.fsb.fsbdesk.games.Blackjack ^
   --vendor "Panopset" ^
@@ -38,8 +38,8 @@ set c=jpackage ^
 echo %c%
 %c%
 
-set c=jpackage ^
-  -n fas21 ^
+ set c=jpackage ^
+  -n blackjack ^
   -p %MP%;%JAVA_HOME%\jmods ^
   -m com.panopset.fsb.fsbdesk.games/com.panopset.fsb.fsbdesk.games.Blackjack ^
   --vendor "Panopset" ^

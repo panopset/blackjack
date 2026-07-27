@@ -19,7 +19,7 @@
  <dependencies>
   <dependency>
    <groupId>com.panopset.fsb</groupId>
-   <artifactId>engine</artifactId>
+   <artifactId>fsbengine</artifactId>
    <version>1.7.0</version>
   </dependency>
   <dependency>
